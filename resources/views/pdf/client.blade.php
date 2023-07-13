@@ -25,7 +25,7 @@
 </head>
 <body>
     <p style="text-align: center; margin-bottom: 18pt">
-        <img src="{{public_path('images/Citibank-Logo.png')}}" style="width: 200px;" alt=""> <br> <br>
+        <img src="{{public_path('images/images.jpg')}}" style="width: 200px;" alt=""> <br> <br>
         {{-- <strong style="font-size: 16pt">Citi Banking, Inc.</strong> <br> --}}
        CitiBank Tagbiliran City<br>
         Tel. No. 09867867565
